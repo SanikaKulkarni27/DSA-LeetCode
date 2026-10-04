@@ -15,6 +15,7 @@ class Solution {
                 right--;
             }
         }
-    return new String(arr);
+
+        return new String(arr);
     }
 }
